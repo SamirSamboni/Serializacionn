@@ -4,32 +4,31 @@
  */
 package com.umariana.mundo;
 
-/**
- *
- * @author SAMIR
- */
-public class Video {
-    
+import java.io.Serializable;
+
+
+public class Video implements Serializable {
     private int idVideo;
     private String titulo;
     private String autor;
-    private String anio;
+    private String aniho;
     private String categoria;
     private String url;
     private String letra;
 
-    public Video() {
-    }
-
-    public Video(int idVideo, String titulo, String autor, String anio, String categoria, String url, String letra) {
+    public Video(int idVideo, String titulo, String autor, String aniho, String categoria, String url, String letra) {
         this.idVideo = idVideo;
         this.titulo = titulo;
         this.autor = autor;
-        this.anio = anio;
+        this.aniho = aniho;
         this.categoria = categoria;
         this.url = url;
         this.letra = letra;
     }
+
+    public Video() {
+    }
+    
 
     public int getIdVideo() {
         return idVideo;
@@ -55,12 +54,12 @@ public class Video {
         this.autor = autor;
     }
 
-    public String getAnio() {
-        return anio;
+    public String getAniho() {
+        return aniho;
     }
 
-    public void setAnio(String anio) {
-        this.anio = anio;
+    public void setAniho(String aniho) {
+        this.aniho = aniho;
     }
 
     public String getCategoria() {

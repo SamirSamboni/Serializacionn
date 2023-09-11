@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'C:/Users/SAMIR/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/SAMIR/Dropbox/PC/Documents/NetBeansProjects/Serializacioon/serializacion/src/main/java;C:/Users/SAMIR/Dropbox/PC/Documents/NetBeansProjects/Serializacioon/serializacion/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/SAMIR/Dropbox/PC/Documents/NetBeansProjects/Serializacioon/serializacion/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'serializacion 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/SAMIR/Dropbox/PC/Documents/NetBeansProjects/Serializacioon/serializacion/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'serializacion 1.0 API'
+com.umariana.mundo
+servlets
+C:\Users\SAMIR\.m2\repository\javax\javaee-web-api\7.0\javaee-web-api-7.0.jar = 1691013759462
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\src\main\java = 1693350792999
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\generated-sources\annotations = 1693348595820
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\allclasses-index.html = 1693935610824
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\allpackages-index.html = 1693935610828
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\copy.svg = 1693935610920
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\element-list = 1693935610711
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\help-doc.html = 1693935610872
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\index-all.html = 1693935610855
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\index.html = 1693935610805
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\jquery-ui.overrides.css = 1693935611180
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\member-search-index.js = 1693935610834
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\module-search-index.js = 1693935610830
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\overview-summary.html = 1693935610859
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\overview-tree.html = 1693935610799
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\package-search-index.js = 1693935610831
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\script.js = 1693935610912
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\search.js = 1693935610923
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\serialized-form.html = 1693935610763
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\stylesheet.css = 1693935610886
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\tag-search-index.js = 1693935610836
+C:\Users\SAMIR\Dropbox\PC\Documents\NetBeansProjects\Serializacioon\serializacion\target\apidocs\type-search-index.js = 1693935610833
