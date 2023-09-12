@@ -36,8 +36,8 @@ public class SvVideo extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        FileInputStream cargar= new FileInputStream(getServletContext().getRealPath("videosGuardados.data"));
-         ObjectInputStream cargado = new ObjectInputStream(cargar);
+        FileInputStream carga= new FileInputStream(getServletContext().getRealPath("videosGuardados.data"));
+         ObjectInputStream cargado = new ObjectInputStream(carga);
         try {
             Video video = (Video) cargado.readObject();
             videos.add(video);
